@@ -289,3 +289,13 @@ LogInit: Object subsystem initialized
 [2017.12.05-20.05.11:756][ 28]SourceControl: 	TDEMO/Intermediate/
 [2017.12.05-20.05.11:756][ 28]SourceControl: 	TDEMO/Saved/
 [2017.12.05-20.05.11:756][ 28]SourceControl: nothing added to commit but untracked files present (use "git add" to track)
+[2017.12.05-20.11.42:197][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BIG-FLOPPY-DICK" FILE="C:/Users/Gary/Documents/GitHub/TDEMO/TDEMO/Content/Blueprints/BIG-FLOPPY-DICK.uasset" SILENT=true
+[2017.12.05-20.11.42:373][222]LogSavePackage: Save=148.09ms
+[2017.12.05-20.11.42:373][222]LogSavePackage: Moving 'C:/Users/Gary/Documents/GitHub/TDEMO/TDEMO/Saved/BIG-FLOPPY-DICKB1E4BB5A452CF4FCA695F3B70C3CA04D.tmp' to 'C:/Users/Gary/Documents/GitHub/TDEMO/TDEMO/Content/Blueprints/BIG-FLOPPY-DICK.uasset'
+[2017.12.05-20.11.42:390][222]LogSavePackage: Display: Finished SavePackage C:/Users/Gary/Documents/GitHub/TDEMO/TDEMO/Content/Blueprints/BIG-FLOPPY-DICK.uasset
+[2017.12.05-20.12.13:473][820]SourceControl: fatal: D:/Game Dev/Epic Games/UE_4.17/Engine/Content/: 'D:/Game Dev/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2017.12.05-20.12.30:336][820]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.12.05-20.12.30:567][820]SourceControl: [Ruin-Everything 9d36f9d] I'm sorry if this breaks everything
+[2017.12.05-20.12.30:567][820]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2017.12.05-20.12.30:567][820]SourceControl:  create mode 100644 TDEMO/Content/Blueprints/BIG-FLOPPY-DICK.uasset
+[2017.12.05-20.12.30:589][820]SourceControl: Commited [Ruin-Everything 9d36f9d] I'm sorry if this breaks everything.
